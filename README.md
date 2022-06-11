@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaustubh Renghe 
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Development and Security
+- 👀 I’m a Web Developer
+- 🌱 I’m currently on my way to master React
 - 📫 You can reach me @renghekaustubh@gmail.com
 
 <!---
